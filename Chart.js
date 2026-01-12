@@ -89,7 +89,7 @@ var Chart = new function () {
         }
 
         // draw labels on the axes
-        context.fillStyle = "#000000";
+        context.fillStyle = "#FFFFFF";
         context.textAlign = "right";
         context.textBaseline = "middle";
         if (y_min != y_max)
